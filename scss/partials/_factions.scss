@@ -8,7 +8,7 @@
 .faction {
   padding: 0 0 .5em 1em;
   margin-top: 3em;
-  color: #000000;
+  color: $black;
 }
 
 .flavor {
@@ -30,23 +30,22 @@
 }
 
 .die-mech{
-  border-left: 15px solid #BA4745;
+  border-left: 15px solid $Mech;
 }
 
 .saharan {
-  border-left: 15px solid #FB8B24;
+  border-left: 15px solid $Saharan;
 
 }
 
 .khan {
-  border-left: 15px solid #514A47;
+  border-left: 15px solid $Khan;
 }
 
 .imperial {
-  border-left: 15px solid #6D4168;
+  border-left: 15px solid $Imperial;
 }
 
 .enclave {
-  border-left: 15px solid #69793E;
+  border-left: 15px solid $Enclave;
 }
-
